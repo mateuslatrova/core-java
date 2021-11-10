@@ -2,6 +2,6 @@ package com.emc.entities;
 
 public class Participant extends EMBase {
     
-    public String email;
-    public Boolean checkedIn;
+    private String email;
+    private Boolean checkedIn;
 }
